@@ -8,16 +8,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxalexandre12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div> 
   
-##
-<div style="display: inline_block"><br>
-  <img alt="Max-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="pointer-events:none; text-align:center;">
-  <img alt="Max-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="pointer-events:none; text-align:center;">
-  <img alt="Max-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="pointer-events:none; text-align:center;">
-  <img alt="Max-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="pointer-events:none; text-align:center;">
+<div align="center">
 
-<div> 
-                  
-##  
+________________
+ ![C](https://icongr.am/devicon/c-plain.svg?size=50&color=6fdf04)
+ ![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=6fdf04)
+ ![HTML](https://icongr.am/devicon/html5-plain.svg?size=50&color=6fdf04) 
+ ![CSS](https://icongr.am/devicon/css3-plain.svg?size=50&color=6fdf04) 
+ ![JS](https://icongr.am/devicon/javascript-plain.svg?size=50&color=6fdf04)
+   ![GIT](https://icongr.am/devicon/git-plain.svg?size=50&color=6fdf04)
+ 
+   _____________
+ 
+</div>
   
 <div>
 <a href="https://www.linkedin.com/in/max-alexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
