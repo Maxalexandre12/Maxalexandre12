@@ -10,12 +10,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxalexandre12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
+________________  
+  
 <div>
 <img align="right" height="200" src="https://media2.giphy.com/media/gcgNNe0ZIV22Ncu35D/200w.gif?cid=82a1493b9h1pbkbmhzfbi5f8oi1sqze8yz0zicli2uhbosw9&ep=v1_gifs_related&rid=200w.gif&ct=s"/>  
 </div>  
   
-________________
-
 ![C](https://icongr.am/devicon/c-plain.svg?size=50&color=6fdf04)
 ![Py](https://icongr.am/devicon/python-plain.svg?size=50&color=6fdf04)
 ![HTML](https://icongr.am/devicon/html5-plain.svg?size=50&color=6fdf04) 
