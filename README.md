@@ -27,4 +27,4 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-alexandre/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max.alexandre@mail.uft.edu.br) <br>
 
-![Snake animation](https://github.com/Maxalexandre12/Maxalexandre12/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/danielbped/Maxalexandre12/blob/output/github-contribution-grid-snake.svg)
