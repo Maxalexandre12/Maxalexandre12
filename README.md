@@ -29,7 +29,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Maxalexandre12/Maxalexandre12/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+  ![Snake animation](https://github.com/Maxalexandre12/Maxalexandre12/output/github-contribution-grid-snake.svg)
 
+</div>
